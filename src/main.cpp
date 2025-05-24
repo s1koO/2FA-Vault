@@ -5,8 +5,8 @@
 #include "Base32.h"
 
 #define IR_SENSOR_PIN PD0      // Arduino D0
-#define MG996_SERVO_PIN PB1     // OCR1A
-#define GS21G_SERVO_PIN PB2    // OCR1B
+#define MG996_SERVO_PIN PB1     // Arduino D9 (OCR1A)
+#define GS21G_SERVO_PIN PB2    // Arduino D10 (OCR1B)
 #define BUZZER_PIN PB3         // Arduino D11
 #define BUZZER 11
 #define RED_LED PB4            // Arduino D12
